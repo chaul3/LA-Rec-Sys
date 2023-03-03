@@ -12,7 +12,7 @@
 <img src="https://github.com/LiChengcheng-1/LA_project-master/blob/master/LA_project-master/static/images/logo2.png" align= " right">
 <br>
 <br>
-<a href="https://youtu.be/2ErSRCsd7qc">A Youtube video shows a demo</a>
+<a href="https://youtu.be/vKorhkCVOhw">A Youtube video shows a demo</a>
 
 
 # The Duck's School
