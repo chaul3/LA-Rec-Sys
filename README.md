@@ -145,9 +145,9 @@ Then you need to install below requirements on our system:
 <a name="headers6"/>
 
 # Members
+* Chau Le 
 * Hong Yang
 * Chengcheng Li
-* Chau Le 
 * Zaid A.R Abdulmohsin
 * Ahmed Abdelbary
 * Saba Darbandi
