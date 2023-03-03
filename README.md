@@ -21,7 +21,7 @@ In the Duck’s School, we use information about subjects that students have stu
 The Duck’s School was developed as part of a Learning Analytics lecture project at Duisburg – Essen University.
 
 
-<img src="https://github.com/chaul3/LA-Rec-Sys/tree/main/static/images/duck-mainpage.png" align= " right">
+<img src="https://github.com/chaul3/LA-Rec-Sys/blob/f640d36ba9407b8bc7a8917990972a509f168517/static/images/duck-mainpage.png" align= " right">
 
 <a name="headers1"/>
 
