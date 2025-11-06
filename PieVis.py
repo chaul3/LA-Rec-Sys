@@ -6,11 +6,9 @@ from bokeh.palettes import Category20_20
 from bokeh.plotting import figure, save
 from bokeh.transform import cumsum
 from bokeh.models import TabPanel, Tabs
-
 # Import the Dataset after Preprocessing
 Data = pd.read_csv('./ProcessedData/mergedDate.csv')
 Data_2 = pd.read_csv('./ProcessedData/passRate.csv')
-
 # Assign every Feature (column) to a Variable
 courses = np.unique(Data['code_module'])
 num_of_prev_attempts = np.unique(Data['num_of_prev_attempts'])
@@ -282,3 +280,4 @@ for i in range(len(sem)):
         p = (Tabs(tabs=[tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8, tab9, tab10]))
         name = "./PieVis/PieVis_{C}_{S}.html".format(C=j, S=semester[i])
         save(p, name)
+
