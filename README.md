@@ -14,7 +14,6 @@
 <br>
 <a href="https://youtu.be/vKorhkCVOhw">A Youtube video shows a demo</a>
 
-
 # The Duck's School
 Welcome to The Duck’s School App, Which help students to choose their ideal course based on many approaches.
 In the Duck’s School, we use information about subjects that students have studied and other students' subjects by employing the Recommended Systems approach, as well as the non-Personalized approach by visualizing different attributes of courses to students to assist them compare between the courses. The Ducks' School is user-friendly for students in all disciplines, not just IT.
